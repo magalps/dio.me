@@ -37,7 +37,7 @@ while True:
         else:
             print("Depósito realizado com sucesso!")
             saldo += valor_deposito
-            extrato += f"\n Depósito +{saldo}\n"
+            extrato += f"\n Depósito +{valor_deposito}\n"
             valor_deposito = 0
 
     elif opcao == "s":
