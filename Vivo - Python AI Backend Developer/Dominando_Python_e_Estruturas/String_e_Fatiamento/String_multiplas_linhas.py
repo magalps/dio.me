@@ -1,6 +1,8 @@
-# Em Python, é possível criar strings de múltiplas linhas usando aspas triplas (""" ou '''). 
-# Isso permite escrever textos longos que ocupam várias linhas sem precisar quebrar a string 
-# manualmente.
+''' 
+Em Python, é possível criar strings de múltiplas linhas usando aspas triplas (" " " ou ' ' '). 
+Isso permite escrever textos longos que ocupam várias linhas sem precisar quebrar a string 
+manualmente.
+'''
 
 #Criando Strings de Múltiplas Linhas
 '''
